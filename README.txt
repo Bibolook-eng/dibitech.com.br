@@ -1,37 +1,34 @@
-Strongly Typed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Engenharia de Automação - Soluções em Automação, Sistemas Inteligentes e Transformação Digital
 
+## Descrição
+Repositório oficial do site da empresa especializada em Engenharia de Automação, Sistemas Inteligentes e Transformação Digital. Oferecemos soluções personalizadas em:
 
-This is Strongly Typed, a new site template with a minimal, semi-retro
-look (inspired by old instruction manuals) and, as you might guess from its
-name, a strong emphasis on type. It's fully responsive, built on HTML5/CSS3,
-and includes styling for all basic page elements. Demo images* are courtesy of
-regularjane, an incredibly talented photographer friend of mine. Be sure to
-check out more of her work over at deviantART:
+- Automação Industrial (CLPs, IHMs, SCADA)
+- Desenvolvimento de Sistemas (Delphi, .NET, Python)
+- Infraestrutura de TI (Redes, Cloud Computing)
+- Machine Learning e Ciência de Dados
+- Educação Tecnológica (Treinamentos e Docência)
 
-http://regularjane.deviantart.com/
+## Equipe
+- **Eng. Rui Tobias Carvalho**: Especialista em Automação Industrial, Ciência de Dados e TI
+- **Eng. Rodrigo Carvalho**: Especialista em Engenharia Elétrica e Integração de Sistemas
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Jane's work without her explicit permission!)
+## Tecnologias Utilizadas
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: (Informe se aplicável - PHP, Node.js, etc)
+- Frameworks: (Informe se aplicável - Bootstrap, React, etc)
+- Ferramentas de Automação: CLPs, SCADA, Delphi, Python
+- Infraestrutura: Linux/Windows Server, Azure
 
-As usual, feedback, bug reports, and comments are not only welcome, but strongly
-encouraged :)
+## Como Contribuir
+Este projeto é mantido pela equipe Rui & Rodrigo Carvalho. Para sugestões ou parcerias comerciais, entre em contato:
 
-AJ
-aj@lkn.io | @ajlkn
+## Contato
+- Localização: Apiaí - SP, Brasil
+- Telefone: (15) 99852-9447
+- Email: ruitobias@dibitech.com.br
+- LinkedIn: (insira o link)
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		regularjane (regularjane.deviantart.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Licença
+© 2025 Rui & Rodrigo Carvalho. Todos os direitos reservados.
+Design baseado em HTML5 UP (informe se utilizou template).
