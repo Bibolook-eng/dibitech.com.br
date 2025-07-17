@@ -1,0 +1,45 @@
+/* Tema Escuro para Strongly Typed */
+
+body, html, section, article, #main, #header, #banner, #features, #footer {
+  background-color: #111 !important;
+  color: #eee !important;
+}
+
+a {
+  color: #00c3ff;
+}
+a:hover {
+  color: #00e0ff;
+  border-bottom-color: transparent;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #00c3ff !important;
+}
+
+#header h1 {
+  color: #00c3ff !important;
+}
+
+#header p, #footer {
+  color: #ccc !important;
+}
+
+.button {
+  background: #00c3ff !important;
+  color: #000 !important;
+}
+.button:hover {
+  background: #00e0ff !important;
+  color: #000 !important;
+}
+
+input, textarea, select {
+  background-color: #1e1e1e !important;
+  color: #e0e0e0 !important;
+  border: 1px solid #444 !important;
+}
+
+.image {
+  border-color: #333 !important;
+}
